@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-I was on vacation, with nothing to do... so I thought, why not clone some stuff? Among other projects, the one I chose was to clone the Calculator from my cell phone, a Motorola G8 Plus
+I was on vacation, with nothing to do... so I thought, why not clone some stuff? Among other projects, the one I chose was to clone the Calculator from my cell phone, a Motorola G8 Plus. **[See the project in action by clicking here (vercel)](https://calculator-f989wxxal-mayoliveii.vercel.app/)** 👈👈👈
 
 ![image](https://user-images.githubusercontent.com/52144604/209163497-4edd88fd-80f3-40f1-af6f-8afa3b7252a1.png)
 
