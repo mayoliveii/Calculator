@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I was on vacation, with nothing to do... so I thought, why not clone some stuff? Among other projects, the one I chose was to clone the Calculator from my cell phone, a Motorola G8 Plus
+
+![image](https://user-images.githubusercontent.com/52144604/209163497-4edd88fd-80f3-40f1-af6f-8afa3b7252a1.png)
+
+For someone who did everything just by looking, without Figma, I think I did a pretty good job.🥳🤣
 
 ## Available Scripts
 
